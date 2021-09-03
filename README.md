@@ -1,5 +1,6 @@
 # REST-API
 RESTful API using Node.js, Express, MongoDB and Mongoose.
+This project uses the workings of a shop as a reference for this API.
 
 ## What it can do
 Automatic Reloading
