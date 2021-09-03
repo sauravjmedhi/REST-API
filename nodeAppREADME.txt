@@ -16,10 +16,6 @@ npm install --save multer //parse form-data body, what cannot be parsed by body-
 npm install --save bcrypt
 npm install --save jsonwebtoken
 
-mongoDb Atlas:
-Node_REST_shop
-username, pw: sjmw
-
 Authentication
 JSON Web Token
 Node.bcrypt.js
